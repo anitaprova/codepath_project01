@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='![](https://github.com/anitaprova/codepath-project01/community-board/src/assets/video.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='![](https://github.com/anitaprova/codepath_project01/blob/main/community-board/src/assets/video.gif' title='Video Walkthrough' width='' alt='Video Walkthrough)' />
 
 GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
 
