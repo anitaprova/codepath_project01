@@ -26,12 +26,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='![GIF](https://i.imgur.com/a/ybpOUuZ.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='![](https://github.com/anitaprova/codepath-project01/community-board/src/assets/video.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-
-[ScreenToGif](https://www.screentogif.com/) for Windows
+GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
 
 ## Notes
 
